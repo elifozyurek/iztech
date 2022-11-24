@@ -1,2 +1,2 @@
 # iztech
-my homework and practice codes in IZTECH
+my homework and practice codes in IZTECH 

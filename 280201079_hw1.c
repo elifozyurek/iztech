@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 //Elif Özyürek 280201079
+// %80 correct
 
 typedef struct dynamic_array {
     int capacity;
